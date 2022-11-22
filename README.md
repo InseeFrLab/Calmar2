@@ -8,13 +8,13 @@ Le redressement consiste à remplacer les pondérations initiales, qui sont en g
 
 Cette méthode de redressement permet de réduire la variance d'échantillonnage, et, dans certains cas, de réduire le biais dû à la non réponse totale. 
 
-Le programme CALMAR2 apporte à l’utilisateur les options supplémentaires suivantes par rapport à la version antérieure :
+La macro CALMAR2 apporte à l’utilisateur les options supplémentaires suivantes par rapport à la version antérieure :
 - une nouvelle fonction de distance : le sinus hyperbolique ;
 - le traitement des colinéarités entre variables de calage ;
 - la codification automatique des variables de calage catégorielles, l’utilisateur pouvant désormais spécifier des paramètres à valeurs discontinues ou de type libellé ;
 - le calage simultané entre différents niveaux d’observation d’une même enquête ;
 - le redressement de la non-réponse à l’aide d’une information auxiliaire connue sur les seuls répondants, par la méthode de calage généralisé mise au point par J.C. Deville.
 
-Les principaux contributeurs à l'élaboration de cette macro sont Jean-Claude Deville et Carl-Erik Särndal pour la théorie du calage sur marges, et Olivier Sautory et Josiane Le Guennec pour le développement de la macro Calmar2 permettant sa mise en œuvre.
+Les principaux contributeurs à l'élaboration de cette macro sont Jean-Claude Deville et Carl-Erik Särndal pour la théorie du calage sur marges, et Olivier Sautory et Josiane Le Guennec pour le développement de la macro CALMAR2 permettant sa mise en œuvre.
 
 Note : la macro CALMAR2 utilise les modules SAS/STAT et SAS/IML du logiciel SAS.
