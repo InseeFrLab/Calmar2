@@ -17,4 +17,6 @@ La macro CALMAR2 apporte à l’utilisateur les options supplémentaires suivant
 
 Les principaux contributeurs à l'élaboration de cette macro sont Jean-Claude Deville et Carl-Erik Särndal pour la théorie du calage sur marges, et Olivier Sautory et Josiane Le Guennec pour le développement de la macro CALMAR2 permettant sa mise en œuvre.
 
+Le programme « compilation.sas » permet de compiler la macro à partir des codes sources disponibles dans le dossier « src ».
+
 Note : la macro CALMAR2 utilise les modules SAS/STAT et SAS/IML du logiciel SAS.
