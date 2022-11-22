@@ -16,3 +16,5 @@ Le programme CALMAR2 apporte à l’utilisateur les options supplémentaires sui
 - le redressement de la non-réponse à l’aide d’une information auxiliaire connue sur les seuls répondants, par la méthode de calage généralisé mise au point par J.C. Deville.
 
 Les principaux contributeurs à l'élaboration de cette macro sont Jean-Claude Deville et Carl-Erik Särndal pour la théorie du calage sur marges, et Olivier Sautory et Josiane Le Guennec pour le développement de la macro Calmar2 permettant sa mise en œuvre.
+
+Note : la macro CALMAR2 utilise les modules SAS/STAT et SAS/IML du logiciel SAS.
